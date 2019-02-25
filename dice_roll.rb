@@ -3,7 +3,7 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll()
- return rand((1,2))
+ puts rand((1,2))
 end
 
 
