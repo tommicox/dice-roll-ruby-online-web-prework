@@ -6,4 +6,4 @@ def roll()
  puts (1..3)
 end
 
-
+puts roll()
