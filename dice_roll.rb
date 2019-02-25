@@ -4,7 +4,7 @@
 
 def roll(range=1,2,3,4,5,6)
 puts roll = (rand(1,2,3,4,5,6))
- returns rand
+ return rand
   end
 
 
