@@ -3,7 +3,7 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def rand(range=1,2,3,4,5,6)
-puts roll = (rand(1,2,3,4,5,6))
+puts range = (rand(1,2,3,4,5,6))
  return rand
   end
 
